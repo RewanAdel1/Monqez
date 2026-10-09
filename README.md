@@ -11,12 +11,13 @@ Monqez focuses on route-based service discovery, verified providers, transparent
 
 ## 👥 Team Members
 
-* [Team Leader — Sara Khaled Abdelmoaty]
-* [Team Member 1 — Hussein Sherif Mohamed]
-* [Team Member 2 — Sara Reda Samir]
-* [Team Member 3 — Nesma fawzy Ghanem]
-* [Team Member 4 — Toka Raafat Farouk]
-* [Team Member 5 — Rewan Adel Hafez]
+* **Team Leader:** Sara Khaled Abdelmoaty
+* **Team Members:**
+* 1. Hussein Sherif Mohamed
+* 2. Sara Reda Samir
+* 3. Nesma fawzy Ghanem
+* 4. Toka Raafat Farouk
+* 5. Rewan Adel Hafez
 
 ## 📎🎓 Instructor
 
