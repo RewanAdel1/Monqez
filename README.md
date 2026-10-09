@@ -18,8 +18,6 @@ Monqez focuses on route-based service discovery, verified providers, transparent
 * [Team Member 4 — Toka Raafat Farouk]
 * [Team Member 5 — Rewan Adel Hafez]
 
-*Replace the placeholders with the actual team members and their roles.*
-
 ## 📎🎓 Instructor
 
 * **Instructor:** [Hossam El-Gazzar]
@@ -74,8 +72,6 @@ Monqez focuses on route-based service discovery, verified providers, transparent
 * Design system and reusable components.
 * Interactive Figma prototype.
 * Usability testing and design iterations.
-
-**Project Limitations:** The initial graduation project focuses on UX/UI design and an interactive prototype. Live GPS tracking, real-time emergency dispatch, payment processing, and full production deployment are outside the initial scope.
 
 ## 📅 Project Plan (5 Weeks)
 
