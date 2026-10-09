@@ -11,22 +11,22 @@ Monqez focuses on route-based service discovery, verified providers, transparent
 
 ## 👥 Team Members
 
-* **Team Leader:** Sara Khaled Abdelmoaty
-* **Team Members:**
-* 1. Hussein Sherif Mohamed
-* 2. Sara Reda Samir
-* 3. Nesma fawzy Ghanem
-* 4. Toka Raafat Farouk
-* 5. Rewan Adel Hafez
+**Team Leader:** Sara Khaled Abdelmoaty
+**Team Members:**
+* Hussein Sherif Mohamed
+* Sara Reda Samir
+* Nesma fawzy Ghanem
+* Toka Raafat Farouk
+* Rewan Adel Hafez
 
-## 📎🎓 Instructor
+## 📎🎓 Instructor & Details
 
-* **Instructor:** [Hossam El-Gazzar]
-* **Program:** Digital Egypt Pioneers Initiative (DEPI)
-* **Track:** UI/UX Web Design
-* **Training Provider:** YAT
-* **Round Code:** ONL5_DRT2_G3
-* **Round Number:** YAT801
+**Instructor:** [Hossam El-Gazzar]
+**Program:** Digital Egypt Pioneers Initiative (DEPI)
+**Track:** UI/UX Web Design
+**Training Provider:** YAT
+**Round Code:** ONL5_DRT2_G3
+**Round Number:** YAT801
 
 ## 🎯 Project Objectives
 
