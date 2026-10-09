@@ -111,6 +111,8 @@ A user-centered, high-fidelity interactive prototype demonstrating how travelers
 ---
 
 **Project:** Monqez
+
 **Program:** DEPI — UI/UX Web Design Track
+
 **Status:** Graduation Project — In Progress
 
